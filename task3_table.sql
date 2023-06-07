@@ -1,0 +1,1 @@
+CREATE DATABASE TASK3_table;
